@@ -1,3 +1,5 @@
+<div align="center">
+
 # ⚖️ ArguLex: AI-Powered Legal Assistant with RAG
 
 **ArguLex** is an advanced AI-powered legal assistant that provides accurate, context-aware legal information using **RAG (Retrieval Augmented Generation)**. It combines semantic search, vector databases, and generative AI to deliver reliable legal assistance for Indian law.
@@ -53,11 +55,6 @@ User Query → Embedding → Vector Search → Context Retrieval → LLM Generat
 - 🎓 **Case Law Analysis** and judgment extraction
 - 💼 **Professional-grade** legal document handling
 
-### 3. Voice Assistant (Beta)
-- 🗣️ **Voice Input** - Speak your legal questions
-- 🔊 **Voice Output** - Hear the responses
-- 🎤 **Natural Conversation** flow
-
 ---
 
 ## 📚 Datasets
@@ -98,8 +95,6 @@ User Query → Embedding → Vector Search → Context Retrieval → LLM Generat
 ├── 📁 templates/                  # HTML templates
 ├── 📁 tests/
 │   └── test_rag.py               # ✨ RAG test suite
-├── 📁 BackEnd/
-│   └── Voice Assistant/           # Voice interface
 ├── app.py                         # Main Flask application
 ├── config.py                      # Configuration
 ├── requirements.txt               # Python dependencies
@@ -291,4 +286,6 @@ If you find ArguLex useful, please consider giving it a star on GitHub! ⭐
 **Built with ❤️ for the legal community**
 
 *Empowering access to legal knowledge through AI*
+
+</div>
 
