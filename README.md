@@ -2,6 +2,8 @@
 
 # ⚖️ ArguLex: AI-Powered Legal Assistant with RAG
 
+</div>
+
 **ArguLex** is an advanced AI-powered legal assistant that provides accurate, context-aware legal information using **RAG (Retrieval Augmented Generation)**. It combines semantic search, vector databases, and generative AI to deliver reliable legal assistance for Indian law.
 
 📊 **[View Interactive Architecture Diagram](https://huggingface.co/spaces/CyrilPolisetty/argulex-architecture)** - Explore the complete system architecture with visual components, data flows, and technology stack.
@@ -286,6 +288,4 @@ If you find ArguLex useful, please consider giving it a star on GitHub! ⭐
 **Built with ❤️ for the legal community**
 
 *Empowering access to legal knowledge through AI*
-
-</div>
 
